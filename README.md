@@ -1,9 +1,32 @@
-# 🌐 Live Demo  
+# 🌐 **Live Demo**  
 ## 🔗 [Click here to view the live project](https://siddhai-riyahablanis-projects.vercel.app/)
 
-# 🚀 SiddhAi - AI-Powered Career Coach
+# 🚀 **SiddhAi - AI-Powered Career Coach**
 
 SiddhAi is an advanced AI-driven career coach platform designed to revolutionize job applications and professional growth. By leveraging artificial intelligence, SiddhAi offers tailored solutions for resume tailor,cover letter generation, interview preparation, and industry insights, empowering users to make informed decisions in their career journeys.
+
+## 📋 **Table of Contents**
+
+1. [Key Features](#key-features)
+   - [AI-Powered Resume Optimization](#ai-powered-resume-optimization)
+   - [Smart Cover Letter Generation](#smart-cover-letter-generation)
+   - [AI-Driven Interview Preparation](#ai-driven-interview-preparation)
+   - [Industry Insights](#industry-insights)
+   - [Personalized Experience](#personalized-experience)
+2. [Tech Stack](#tech-stack)
+3. [Core Components](#core-components)
+   - [Prisma Schema](#prisma-schema)
+   - [Middleware](#middleware)
+   - [AI-Powered Career Assessments](#ai-powered-career-assessments)
+   - [Resume & Cover Letter Builder](#resume--cover-letter-builder)
+4. [Why Choose SiddhAi?](#why-choose-siddhai)
+5. [Get Started](#get-started)
+   - [Clone the repository](#clone-the-repository)
+   - [Install dependencies](#install-dependencies)
+   - [Configure environment variables](#configure-environment-variables)
+   - [Run the development server](#run-the-development-server)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ## 🚀 **Key Features**
 
@@ -73,8 +96,8 @@ GEMINI_API_KEY=
 ### Run the development server:
 npm run dev
 
-### 🤝 Contributing
+### 🤝 **Contributing**
 We welcome contributions to make SiddhAi even better! If you have any new feature suggestions, or improvements, feel free to submit a PR.
 
-📜 License
+📜 **License**
 MIT License. See the LICENSE file for more details.
