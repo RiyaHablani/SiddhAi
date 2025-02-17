@@ -1,11 +1,11 @@
 # **SiddhAi - AI-Powered Career Coach**
 
-SiddhAi is an advanced AI-driven career coaching platform designed to revolutionize job applications and professional growth. By leveraging artificial intelligence, SiddhAi offers tailored solutions for resume optimization, cover letter generation, interview preparation, and industry insights, empowering users to make informed decisions in their career journeys.
+SiddhAi is an advanced AI-driven career coach platform designed to revolutionize job applications and professional growth. By leveraging artificial intelligence, SiddhAi offers tailored solutions for resume tailor,cover letter generation, interview preparation, and industry insights, empowering users to make informed decisions in their career journeys.
 
 ## 🚀 **Key Features**
 
 ### AI-Powered Resume Optimization
-Improve your resume with real-time ATS scoring and AI-generated feedback to boost your chances of landing your dream job.
+Easily customize your resume with AI-generated feedback and see live changes as you enhance it, boosting your chances of landing your dream job.
 
 ### Smart Cover Letter Generation
 Craft customized cover letters by simply providing the job description, ensuring that each application stands out.
@@ -51,3 +51,27 @@ SiddhAi isn't just another career tool—it's a smart, adaptable assistant that 
 ### Clone the repository:
 ```bash
 git clone https://github.com/your-repo/siddhai.git
+
+### Install dependencies:
+npm install
+### Configure environment variables:
+Make sure to set up the following in your .env file:
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+
+GEMINI_API_KEY=
+
+### Run the development server:
+npm run dev
+
+### 🤝 Contributing
+We welcome contributions to make SiddhAi even better! If you have any new feature suggestions, or improvements, feel free to submit a PR.
+
+📜 License
+MIT License. See the LICENSE file for more details.
