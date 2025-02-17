@@ -1,7 +1,7 @@
 # 🌐 Live Demo  
 ## 🔗 [Click here to view the live project](https://siddhai-riyahablanis-projects.vercel.app/)
 
-# 🚀**SiddhAi - AI-Powered Career Coach**
+# 🚀 SiddhAi - AI-Powered Career Coach
 
 SiddhAi is an advanced AI-driven career coach platform designed to revolutionize job applications and professional growth. By leveraging artificial intelligence, SiddhAi offers tailored solutions for resume tailor,cover letter generation, interview preparation, and industry insights, empowering users to make informed decisions in their career journeys.
 
