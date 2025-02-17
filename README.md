@@ -5,9 +5,9 @@
 
 SiddhAi is an advanced AI-driven career coach platform designed to revolutionize job applications and professional growth. By leveraging artificial intelligence, SiddhAi offers tailored solutions for resume tailor,cover letter generation, interview preparation, and industry insights, empowering users to make informed decisions in their career journeys.
 ![AI Career Coach](https://github.com/RiyaHablani/SiddhAi/blob/169bcdee7ebdd0a37a3ef6914ac5d6d9bf42d3f6/image1.png)
-![[AI Career Coach](https://github.com/RiyaHablani/SiddhAi/blob/0388eddd6698989bfbf15bceee7fd3f7c5aa08ca/image2.png) 
-![[AI Career Coach](https://github.com/RiyaHablani/SiddhAi/blob/0388eddd6698989bfbf15bceee7fd3f7c5aa08ca/image3.png) 
-![[AI Career Coach](https://github.com/RiyaHablani/SiddhAi/blob/0388eddd6698989bfbf15bceee7fd3f7c5aa08ca/image4.png) 
+![AI Career Coach](https://github.com/RiyaHablani/SiddhAi/blob/0388eddd6698989bfbf15bceee7fd3f7c5aa08ca/image2.png) 
+![AI Career Coach](https://github.com/RiyaHablani/SiddhAi/blob/0388eddd6698989bfbf15bceee7fd3f7c5aa08ca/image3.png) 
+![AI Career Coach](https://github.com/RiyaHablani/SiddhAi/blob/0388eddd6698989bfbf15bceee7fd3f7c5aa08ca/image4.png) 
 ![AI Career Coach](https://github.com/RiyaHablani/SiddhAi/blob/169bcdee7ebdd0a37a3ef6914ac5d6d9bf42d3f6/image5.png)
 ![AI Career Coach](https://github.com/RiyaHablani/SiddhAi/blob/169bcdee7ebdd0a37a3ef6914ac5d6d9bf42d3f6/image6.png)
 ![AI Career Coach](https://github.com/RiyaHablani/SiddhAi/blob/169bcdee7ebdd0a37a3ef6914ac5d6d9bf42d3f6/image7.png)
